@@ -1,0 +1,12 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: antiquewhite;
+}
+.container{
+    background-image:linear-gradient(#28313B,#485461);background-attachment:fixed; 
+    margin-left:auto;
+    margin-right:auto;
+    padding-top: 0;
+    width: 38%;
+    height: 50%;
+}
